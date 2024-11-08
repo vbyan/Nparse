@@ -1,5 +1,5 @@
 <br>
-<img src="https://raw.githubusercontent.com/vbyan/Nparse/main/astronaut.png" style="width:130px; height:150px; margin-top:50px;">
+<img src="https://raw.githubusercontent.com/vbyan/Nparse/main/astronaut.png" style="width:80px; height:100px; margin-top:50px;">
 
 # Welcome to Deeva 👋
 
